@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class ExceptionDemo{
     public static void main(String[] args) {
-        int a = 10;
-        int b = 0;
+        int a, b;
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter two integers (a and b): ");
         
