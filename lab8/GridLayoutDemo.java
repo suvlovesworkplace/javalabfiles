@@ -15,6 +15,7 @@ public class GridLayoutDemo extends JFrame{
         btn3 = new JButton("3");
         btn4 = new JButton("4");
         btn5 = new JButton("5");
+
         add(btn1);
         add(btn2);
         add(btn3);
