@@ -1,2 +1,6 @@
 design a gui window that 
 will show an example of grid layout and border layout
+
+design a form that contains two levels ,two text box, 
+one text area, two radio button, two
+checkbox, one combo box and two buttons in a null layout
